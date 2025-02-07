@@ -1,3 +1,3 @@
 # apnacollege_demo
 This is my first git repository<br>
-author-janmejay
+author-janmejay(apna college)
